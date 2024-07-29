@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/ui/ManagecategoriesUI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/ui/MainUI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/ui/ManagebooksUI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/ui/ManagefinesUI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/ui/ManagemembersUI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/ui/DashboardUI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/ui/AddBookUI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/ui/AddborrowingsUI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/ui/UpdatebookUI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/ui/UpdateborrowingsUI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/service/BookService.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/ui/ManageborrowingsUI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/app/src/dao/BookDao.java</file>
+        </group>
+    </open-files>
+</project-private>
